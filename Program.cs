@@ -42,11 +42,13 @@ namespace Program
                     }
                 }
 // vérification contenu tableau
-                foreach (var item in Li)
+                int len = Li.Count;
+                for (int i = 0; i < len; i++)
                 {
-                    Console.WriteLine(item);
+                    Console.Write(Li[i]);
                 }
-                    Console.WriteLine("----------------------------------");
+                    
+                    Console.WriteLine("\n----------------------------------\n");
 
 
             }

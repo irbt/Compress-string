@@ -13,3 +13,18 @@ C:\Mon_Code\Compress string\obj\Debug\net7.0\refint\Compress string.dll
 C:\Mon_Code\Compress string\obj\Debug\net7.0\Compress string.pdb
 C:\Mon_Code\Compress string\obj\Debug\net7.0\Compress string.genruntimeconfig.cache
 C:\Mon_Code\Compress string\obj\Debug\net7.0\ref\Compress string.dll
+F:\Code_\Compress-string\bin\Debug\net7.0\Compress string.exe
+F:\Code_\Compress-string\bin\Debug\net7.0\Compress string.deps.json
+F:\Code_\Compress-string\bin\Debug\net7.0\Compress string.runtimeconfig.json
+F:\Code_\Compress-string\bin\Debug\net7.0\Compress string.dll
+F:\Code_\Compress-string\bin\Debug\net7.0\Compress string.pdb
+F:\Code_\Compress-string\obj\Debug\net7.0\Compress string.csproj.AssemblyReference.cache
+F:\Code_\Compress-string\obj\Debug\net7.0\Compress string.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code_\Compress-string\obj\Debug\net7.0\Compress string.AssemblyInfoInputs.cache
+F:\Code_\Compress-string\obj\Debug\net7.0\Compress string.AssemblyInfo.cs
+F:\Code_\Compress-string\obj\Debug\net7.0\Compress string.csproj.CoreCompileInputs.cache
+F:\Code_\Compress-string\obj\Debug\net7.0\Compress string.dll
+F:\Code_\Compress-string\obj\Debug\net7.0\refint\Compress string.dll
+F:\Code_\Compress-string\obj\Debug\net7.0\Compress string.pdb
+F:\Code_\Compress-string\obj\Debug\net7.0\Compress string.genruntimeconfig.cache
+F:\Code_\Compress-string\obj\Debug\net7.0\ref\Compress string.dll

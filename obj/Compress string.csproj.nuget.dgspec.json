@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mon_Code\\Compress string\\Compress string.csproj": {}
+    "F:\\Code_\\Compress-string\\Compress string.csproj": {}
   },
   "projects": {
-    "C:\\Mon_Code\\Compress string\\Compress string.csproj": {
+    "F:\\Code_\\Compress-string\\Compress string.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mon_Code\\Compress string\\Compress string.csproj",
+        "projectUniqueName": "F:\\Code_\\Compress-string\\Compress string.csproj",
         "projectName": "Compress string",
-        "projectPath": "C:\\Mon_Code\\Compress string\\Compress string.csproj",
-        "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Mon_Code\\Compress string\\obj\\",
+        "projectPath": "F:\\Code_\\Compress-string\\Compress string.csproj",
+        "packagesPath": "C:\\Users\\Manu\\.nuget\\packages\\",
+        "outputPath": "F:\\Code_\\Compress-string\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shawn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Manu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
